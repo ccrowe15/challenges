@@ -14,6 +14,10 @@ int main() {
 
     } else if (i % 5 == 0) {    
   	printf("%d: Buzz\n", i);
+
+    } else {
+	printf("%d\n", i);	
+    
     }
 
    }
